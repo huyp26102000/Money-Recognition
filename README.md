@@ -39,11 +39,11 @@
     <a href="https://github.com/huyp26102000"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/huyp26102000">View Demo</a>
+    <a href="https://github.com/huyp26102000/Money-Recognition">View Demo</a>
     ·
-    <a href="https://github.com/huyp26102000/issues">Report Bug</a>
+    <a href="https://github.com/huyp26102000/Money-Recognition/issues">Report Bug</a>
     ·
-    <a href="https://github.com/huyp26102000/issues">Request Feature</a>
+    <a href="https://github.com/huyp26102000/Money-Recognition/issues">Request Feature</a>
   </p>
 </p>
 
