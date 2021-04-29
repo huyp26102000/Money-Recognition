@@ -1,5 +1,3 @@
-# Money-Recognition
-
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
 *** github_username, repo_name, twitter_handle, email, project_title, project_description
@@ -33,7 +31,7 @@
     <img src="image-logo/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Money-Recognition</h3>
 
   <p align="center">
     project_description
