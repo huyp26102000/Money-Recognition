@@ -170,7 +170,7 @@ while(cap.isOpened()):
 	cv2.imshow('output',output)
 
 
-	if cv2.waitKey(1000000000) & 0xFF == ord('q'):
+	if cv2.waitKey(1) & 0xFF == ord('q'):
 		break
 
 cap.release()
